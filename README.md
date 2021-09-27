@@ -1,5 +1,5 @@
 # Shopfiy-Backend-Challenge
-Submission for Summer 2021 Backend Challenge
+Submission for Winter 2022 Backend Challenge
 
 Requirements:
 Python installed version >= 3.6.4
